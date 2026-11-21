@@ -1,0 +1,8 @@
+info: OpinionesDW.BatchWriter[0]
+      encuesta: 2 registros en 64 ms
+info: OpinionesDW.BatchWriter[0]
+      resena: 3 registros en 36 ms
+info: OpinionesDW.BatchWriter[0]
+      social: 6 registros en 39 ms
+info: OpinionesDW.ExtractionWorker[0]
+      Lote e700740285c04bf1a15ad7ca91e3ad6a confirmado: 11 registros, 6 partes, 136 ms

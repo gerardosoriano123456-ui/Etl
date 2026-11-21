@@ -1,0 +1,8 @@
+info: OpinionesDW.BatchWriter[0]
+      encuesta: 2 registros en 57 ms
+info: OpinionesDW.BatchWriter[0]
+      resena: 3 registros en 35 ms
+fail: OpinionesDW.BatchWriter[0]
+      Falló social tras 0 registros (HttpRequestException)
+fail: OpinionesDW.ExtractionWorker[0]
+      Lote 4b9cdf887be14444974191d71b94bd04 descartado (HttpRequestException)

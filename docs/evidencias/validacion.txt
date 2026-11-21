@@ -1,0 +1,4 @@
+encuesta 2 registros; 1 partes con SHA-256 verificado.
+resena 3 registros; 2 partes con SHA-256 verificado.
+social 6 registros; 3 partes con SHA-256 verificado.
+API HTTP 404: salida 1, se conservó el lote válido; no quedaron temporales.

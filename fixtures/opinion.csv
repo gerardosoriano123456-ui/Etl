@@ -1,0 +1,21 @@
+﻿id_opinion,id_fuente,id_producto,id_cliente,id_sentimiento,fecha_opinion,texto,calificacion,puntaje_sentimiento,idioma
+9001,205,501,1001,10,2026-10-15 12:00:00,  Excelente sonido y batería duradera.  ,5,0.900,ES
+9002,307,502,1002,10,2026-10-15 12:01:00,"  Funciona bien, entrega puntual.  ",4,0.600,ES
+9003,409,503,1003,30,2026-10-15 12:02:00,  El producto se calienta demasiado.  ,2,-0.650,ES
+9004,101,504,1004,20,2026-10-15 12:03:00,  El cargador cumple su función.  ,3,0.000,ES
+9005,205,501,1005,10,2026-10-16 12:04:00,"  Buena calidad, lo recomiendo.  ",5,0.900,ES
+9006,307,502,1006,10,2026-10-16 12:05:00,  La atención fue muy amable.  ,4,0.600,ES
+9007,409,503,1007,30,2026-10-16 12:06:00,  No funciona como esperaba.  ,2,-0.650,ES
+9008,101,504,1008,20,2026-10-16 12:07:00,  Me gustaría una batería mejor.  ,3,0.000,ES
+9009,205,501,1001,10,2026-10-17 12:08:00,  Muy satisfecho con la compra.  ,5,0.900,ES
+9010,307,502,1002,10,2026-10-17 12:09:00,  Calidad aceptable por el precio.  ,4,0.600,ES
+9011,409,503,,30,2026-10-17 12:10:00,  El empaque llegó dañado.  ,2,-0.650,ES
+9012,101,504,1004,20,2026-10-17 12:11:00,  La entrega podría ser más rápida.  ,3,0.000,ES
+9001,205,501,1001,10,2026-10-15 12:00:00,  Excelente sonido y batería duradera.  ,5,0.900,ES
+9100,205,501,1001,10,2026-10-15 12:00:00,  Excelente sonido y batería duradera.  ,5,0.900,ES
+9101,307,502,1002,10,2026-10-15 12:01:00,"  Funciona bien, entrega puntual.  ",8,0.600,ES
+9102,409,503,1003,30,2026-10-15 12:02:00, ,2,-0.650,ES
+9103,101,99999,1004,20,2026-10-15 12:03:00,  El cargador cumple su función.  ,3,0.000,ES
+9104,205,501,1005,10,31/02/2026,"  Buena calidad, lo recomiendo.  ",5,0.900,ES
+9105,999,502,1006,10,2026-10-16 12:05:00,  La atención fue muy amable.  ,4,0.600,ES
+9106,409,503,1007,30,2026-10-16 12:06:00,  No funciona como esperaba.  ,2,1.500,ES
